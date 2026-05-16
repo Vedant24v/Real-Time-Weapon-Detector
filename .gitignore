@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Local secrets and generated demo artifacts
+kaggle.json
+detection_snapshot_*.jpg
+detection_session_*.csv
+app_stdout.log
+app_stderr.log
