@@ -1,4 +1,4 @@
-# AI Weapon Detection Console
+#  Weapon Detection Console
 
 Computer-vision project for real-time weapon detection using a trained Ultralytics YOLO model and a desktop Tkinter inference console.
 
